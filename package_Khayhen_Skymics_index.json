@@ -17,17 +17,12 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/Khayhen/AtmelBoards/blob/master/6bba7d452af59d5190025bc870ec9e53d170e4d9.zip",
-          "archiveFileName": "6bba7d452af59d5190025bc870ec9e53d170e4d9.zip",
-          "checksum": "SHA-256:1654a8968fea7d599255bd18430786f9c84340606e7a678b9cf9a3cd49d94ad7",
-          "size": "5913",
+          "url": "https://github.com/Khayhen/AtmelBoards/raw/master/Platforms.rar",
+          "archiveFileName": "Platforms.rar",
+          "checksum": "SHA-256:015db81222a9e12f12936d39c62413dd92b2882d2ea3f85174dd64a809a44b75",
+          "size": "150633",
           "boards": [
-            {"name": "ATtiny25"},
-            {"name": "ATtiny45"},
-            {"name": "ATtiny85"},
-            {"name": "ATtiny24"},
-            {"name": "ATtiny44"},
-            {"name": "ATtiny84"}
+            {"name": "TranmitterNode"}
           ]
         }
       ],
