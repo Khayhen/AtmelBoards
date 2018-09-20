@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/Khayhen/AtmelBoards/raw/master/Plat.tar.bz2",
           "archiveFileName": "Plat.tar.bz2",
-          "checksum": "ABC30EF048B0BE63B6E3BB02A1FD52F35E2FC4A1CAFD60D4E7C3F9FD776129C0",
+          "checksum": "SHA-256:ABC30EF048B0BE63B6E3BB02A1FD52F35E2FC4A1CAFD60D4E7C3F9FD776129C0",
           "size": "1237620",
           "boards": [
             {"name": "TranmitterNode"}
