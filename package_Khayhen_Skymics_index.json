@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/Khayhen/AtmelBoards/raw/master/SkymicsPlatforms.tar.bz2",
           "archiveFileName": "SkymicsPlatforms.tar.bz2",
-          "checksum": "SHA-256:B66DC6987D35AB8EB77D0331A2BD39A54ABC079F286F43C79603FBE240C49C56",
-          "size": "130037",
+          "checksum": "SHA-256:1F7473BB3B1BA1AFA9C617AED1742FDC5F719543BAD04777B2439405279AADA8",
+          "size": "129979",
           "boards": [
             {"name": "TranmitterNode"}
           ]
