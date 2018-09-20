@@ -17,10 +17,10 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/Khayhen/AtmelBoards/raw/master/Plat.bz2",
-          "archiveFileName": "Plat.bz2",
-          "checksum": "SHA-256:517ED2B1A3E9667FDA91E52C3D98A303C31B2E41EFC67F4DB594E8D342FB73F2",
-          "size": "132878",
+          "url": "https://github.com/Khayhen/AtmelBoards/raw/master/SkymicsPlatforms.tar.bz2",
+          "archiveFileName": "SkymicsPlatforms.tar.bz2",
+          "checksum": "SHA-256:B66DC6987D35AB8EB77D0331A2BD39A54ABC079F286F43C79603FBE240C49C56",
+          "size": "130037",
           "boards": [
             {"name": "TranmitterNode"}
           ]
