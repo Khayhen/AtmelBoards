@@ -17,10 +17,10 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/Khayhen/AtmelBoards/raw/master/Plat.tbz2",
-          "archiveFileName": "Plat.tbz2",
-          "checksum": "SHA-256:947484E5137C768FFB8B7E68D77C6EF81B9940B1FA78ADA781B776A5BE38D67E",
-          "size": "132851",
+          "url": "https://github.com/Khayhen/AtmelBoards/raw/master/Plat.zip",
+          "archiveFileName": "Plat.zip",
+          "checksum": "SHA-256:3DE87CF5753168D0BC0E244E0AEEE702BC82E42BAEA67FE44E7A7D11E7A0AEB7",
+          "size": "216042",
           "boards": [
             {"name": "TranmitterNode"}
           ]
