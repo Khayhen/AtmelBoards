@@ -13,7 +13,7 @@
           "name": "Skymics",
           "architecture": "avr",
           "version": "1.0.0",
-          "category": "Atmel",
+          "category": "Contributed",
           "help": {
             "online": ""
           },
